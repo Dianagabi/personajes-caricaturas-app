@@ -45,3 +45,7 @@ yarn dev
 ## Authors
 
 - [@OscarFDiaz](https://github.com/OscarFDiaz)
+
+
+--- ScratchPad ---
+// "homepage": "https://github.com/OscarFDiaz/react-heroes-app/"
