@@ -9,7 +9,7 @@ export const PersonajeCard = ({
   first_appearance,
   characters,
 }) => {
-  const personajeImageUrl = `personajes/${id}.png`;
+  const personajeImageUrl = `https://raw.githubusercontent.com/Dianagabi/personajes-caricaturas-app/refs/heads/main/public/personajes/${id}.png`;
 
   return (
     <Link to={`/personaje/${id}`}>

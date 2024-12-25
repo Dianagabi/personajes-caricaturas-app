@@ -21,7 +21,8 @@ export const PersonajePage = () => {
       <div className="col-4">
         {/* HERO IMAGE */}
         <img
-          src={`/personajes/${id}.png`}
+          src={`https://raw.githubusercontent.com/Dianagabi/personajes-caricaturas-app/refs/heads/main/public/personajes/${id}.png`}
+          
           alt={personaje.superhero}
           className=" card-img animate__animated animate__fadeInLeft"
         />
