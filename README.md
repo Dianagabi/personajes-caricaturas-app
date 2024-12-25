@@ -20,10 +20,6 @@ https://oscarfdiaz.github.io/react-heroes-app/
 
 Clonar el repositorio
 
-```bash
-git clone https://github.com/OscarFDiaz/react-heroes-app.git
-```
-
 Ir al directorio del proyecto
 
 ```bash
@@ -45,3 +41,7 @@ yarn dev
 ## Authors
 
 - [@OscarFDiaz](https://github.com/OscarFDiaz)
+
+
+--- ScratchPad ---
+// "homepage": "https://github.com/OscarFDiaz/react-heroes-app/"
